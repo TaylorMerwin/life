@@ -1,0 +1,10 @@
+
+body {
+  background-color: #1d2433;
+  margin: 0; /* Reset default body margin */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Ensure full viewport height */
+}
+
